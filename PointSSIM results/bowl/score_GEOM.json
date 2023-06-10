@@ -1,0 +1,110 @@
+{
+  "iteration11": {
+    "name": "project_individual_None_None; bowl",
+    "score": {
+      "geomSym": 8.0381956646953265E-5
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_None_On; bowl",
+    "score": {
+      "geomSym": 0.0016287956889950502
+    }
+  },
+  "iteration31": {
+    "name": "project_individual_Object_None; bowl",
+    "score": {
+      "geomSym": 0.00018493492799984934
+    }
+  },
+  "iteration41": {
+    "name": "project_individual_Object_On; bowl",
+    "score": {
+      "geomSym": 0.00012958198098872111
+    }
+  },
+  "iteration51": {
+    "name": "project_individual_Segment_None; bowl",
+    "score": {
+      "geomSym": 2.9723106712297269E-5
+    }
+  },
+  "iteration61": {
+    "name": "project_individual_Segment_On; bowl",
+    "score": {
+      "geomSym": 3.8872091012505132E-5
+    }
+  },
+  "iteration71": {
+    "name": "project_internet_None_None; bowl",
+    "score": {
+      "geomSym": 0.027260477124266758
+    }
+  },
+  "iteration81": {
+    "name": "project_internet_None_On; bowl",
+    "score": {
+      "geomSym": 0.00039562180443348285
+    }
+  },
+  "iteration91": {
+    "name": "project_internet_Object_None; bowl",
+    "score": {
+      "geomSym": 0.00010043535264579098
+    }
+  },
+  "iteration101": {
+    "name": "project_internet_Object_On; bowl",
+    "score": {
+      "geomSym": 0.00010651977920125159
+    }
+  },
+  "iteration111": {
+    "name": "project_internet_Segment_None; bowl",
+    "score": {
+      "geomSym": 4.5658106943294825E-5
+    }
+  },
+  "iteration121": {
+    "name": "project_internet_Segment_On; bowl",
+    "score": {
+      "geomSym": 3.5698504466905379E-5
+    }
+  },
+  "iteration131": {
+    "name": "project_video_None_None; bowl",
+    "score": {
+      "geomSym": 0.00019744430575424835
+    }
+  },
+  "iteration141": {
+    "name": "project_video_None_On; bowl",
+    "score": {
+      "geomSym": 0.0030023779478652009
+    }
+  },
+  "iteration151": {
+    "name": "project_video_Object_None; bowl",
+    "score": {
+      "geomSym": 1.6533034338452569E-5
+    }
+  },
+  "iteration161": {
+    "name": "project_video_Object_On; bowl",
+    "score": {
+      "geomSym": 4.7660332014473255E-5
+    }
+  },
+  "iteration171": {
+    "name": "project_video_Segment_None; bowl",
+    "score": {
+      "geomSym": 1.5465001401618833E-5
+    }
+  },
+  "iteration181": {
+    "name": "project_video_Segment_On; bowl",
+    "score": {
+      "geomSym": 0.00022515128801423644
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_On; CO3D_TEST",
+    "score": {
+      "colorBA": 0.45307128545207087,
+      "colorAB": 0.46541248361359094,
+      "colorSym": 0.45307128545207087
+    }
+  },
+  "iteration21": {
+    "name": "project_internet_Segment_On; CO3D_TEST",
+    "score": {
+      "colorBA": 0.44966621258364764,
+      "colorAB": 0.43480346322795621,
+      "colorSym": 0.43480346322795621
+    }
+  },
+  "iteration31": {
+    "name": "project_video_Segment_On; CO3D_TEST",
+    "score": {
+      "colorBA": 0.45340301713251158,
+      "colorAB": 0.46313519971085282,
+      "colorSym": 0.45340301713251158
+    }
+  }
+}

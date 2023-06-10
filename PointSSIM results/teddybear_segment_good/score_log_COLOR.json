@@ -1,0 +1,50 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; teddybear",
+    "score": {
+      "colorBA": 0.1735170191202452,
+      "colorAB": 0.1697062124280124,
+      "colorSym": 0.1697062124280124
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; teddybear",
+    "score": {
+      "colorBA": 0.17719044626663563,
+      "colorAB": 0.170497742884942,
+      "colorSym": 0.170497742884942
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; teddybear",
+    "score": {
+      "colorBA": 0.16642994598071792,
+      "colorAB": 0.17230479751454147,
+      "colorSym": 0.16642994598071792
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; teddybear",
+    "score": {
+      "colorBA": 0.18320365639722067,
+      "colorAB": 0.17084274989133591,
+      "colorSym": 0.17084274989133591
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; teddybear",
+    "score": {
+      "colorBA": 0.17669776089165773,
+      "colorAB": 0.18309902754874113,
+      "colorSym": 0.17669776089165773
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; teddybear",
+    "score": {
+      "colorBA": 0.20843160665465701,
+      "colorAB": 0.18246058636521192,
+      "colorSym": 0.18246058636521192
+    }
+  }
+}

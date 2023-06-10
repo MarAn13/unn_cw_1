@@ -1,0 +1,23 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_On; CO3D_TEST",
+    "score": {
+      "geomSym": 0.28745884250680542,
+      "colorSym": 0.24123460257493332
+    }
+  },
+  "iteration21": {
+    "name": "project_internet_Segment_On; CO3D_TEST",
+    "score": {
+      "geomSym": 0.37261158248857412,
+      "colorSym": 0.3209643679774099
+    }
+  },
+  "iteration31": {
+    "name": "project_video_Segment_On; CO3D_TEST",
+    "score": {
+      "geomSym": 0.391678605792878,
+      "colorSym": 0.23461091208918303
+    }
+  }
+}

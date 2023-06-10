@@ -1,0 +1,50 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; orange",
+    "score": {
+      "colorBA": 0.078264127130141525,
+      "colorAB": 0.036203555775543704,
+      "colorSym": 0.036203555775543704
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; orange",
+    "score": {
+      "colorBA": 0.050468001002291409,
+      "colorAB": 0.025183760876013119,
+      "colorSym": 0.025183760876013119
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; orange",
+    "score": {
+      "colorBA": 0.04930171679361494,
+      "colorAB": 0.059134925947919616,
+      "colorSym": 0.04930171679361494
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; orange",
+    "score": {
+      "colorBA": 0.048049897052027078,
+      "colorAB": 0.031028000969974372,
+      "colorSym": 0.031028000969974372
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; orange",
+    "score": {
+      "colorBA": 0.22903785630366008,
+      "colorAB": 0.047070905408381061,
+      "colorSym": 0.047070905408381061
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; orange",
+    "score": {
+      "colorBA": 0.086750268454771212,
+      "colorAB": 0.043951227237804105,
+      "colorSym": 0.043951227237804105
+    }
+  }
+}

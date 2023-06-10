@@ -1,0 +1,50 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; bowl",
+    "score": {
+      "geomSym": 0.00087471821806641857,
+      "normSym": 0.471942177741211,
+      "curvSym": 0.00027355811745380853
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; bowl",
+    "score": {
+      "geomSym": 0.00016804160572018978,
+      "normSym": 0.5636048067781313,
+      "curvSym": 1.1062182448382711E-5
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; bowl",
+    "score": {
+      "geomSym": 3.0423478545605774E-5,
+      "normSym": 0.6164272608308603,
+      "curvSym": 2.3585777218189192E-6
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; bowl",
+    "score": {
+      "geomSym": 0.0001386865886588632,
+      "normSym": 0.33710725455359714,
+      "curvSym": 7.9000975513608516E-10
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; bowl",
+    "score": {
+      "geomSym": 0.0012549164025272,
+      "normSym": 0.65644459704965752,
+      "curvSym": 3.9793942435101569E-6
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; bowl",
+    "score": {
+      "geomSym": 0.0014431638018514231,
+      "normSym": 0.6915012802005176,
+      "curvSym": 2.85060161857474E-7
+    }
+  }
+}

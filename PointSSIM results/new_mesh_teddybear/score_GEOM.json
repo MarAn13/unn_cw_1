@@ -1,0 +1,20 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_On; CO3D_TEST",
+    "score": {
+      "geomSym": 0.4398469483628854
+    }
+  },
+  "iteration21": {
+    "name": "project_internet_Segment_On; CO3D_TEST",
+    "score": {
+      "geomSym": 0.44715235590590441
+    }
+  },
+  "iteration31": {
+    "name": "project_video_Segment_On; CO3D_TEST",
+    "score": {
+      "geomSym": 0.46365146913027011
+    }
+  }
+}

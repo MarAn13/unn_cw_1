@@ -1,0 +1,200 @@
+{
+  "iteration11": {
+    "name": "project_individual_None_None; teddybear",
+    "score": {
+      "normBA": 0.518560357578174,
+      "normAB": 0.4584181766866227,
+      "normSym": 0.4584181766866227,
+      "curvBA": 0.046783261970999884,
+      "curvAB": 0.13445598924270658,
+      "curvSym": 0.046783261970999884
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_None_On; teddybear",
+    "score": {
+      "normBA": 0.4921538303173268,
+      "normAB": 0.45949057565533025,
+      "normSym": 0.45949057565533025,
+      "curvBA": 0.03687401651826056,
+      "curvAB": 0.13386900729111506,
+      "curvSym": 0.03687401651826056
+    }
+  },
+  "iteration31": {
+    "name": "project_individual_Object_None; teddybear",
+    "score": {
+      "normBA": 0.5124194522195415,
+      "normAB": 0.4282494848270369,
+      "normSym": 0.4282494848270369,
+      "curvBA": 0.07671567300045662,
+      "curvAB": 0.16536129486264173,
+      "curvSym": 0.07671567300045662
+    }
+  },
+  "iteration41": {
+    "name": "project_individual_Object_On; teddybear",
+    "score": {
+      "normBA": 0.5270760205922219,
+      "normAB": 0.4304260360866824,
+      "normSym": 0.4304260360866824,
+      "curvBA": 0.0694619287526735,
+      "curvAB": 0.16701952347972024,
+      "curvSym": 0.0694619287526735
+    }
+  },
+  "iteration51": {
+    "name": "project_individual_Segment_None; teddybear",
+    "score": {
+      "normBA": 0.4753115613419218,
+      "normAB": 0.42146651124641415,
+      "normSym": 0.42146651124641415,
+      "curvBA": 0.14928957830238085,
+      "curvAB": 0.16786976203753642,
+      "curvSym": 0.14928957830238085
+    }
+  },
+  "iteration61": {
+    "name": "project_individual_Segment_On; teddybear",
+    "score": {
+      "normBA": 0.4926787235052832,
+      "normAB": 0.422518062799408,
+      "normSym": 0.422518062799408,
+      "curvBA": 0.12357791029375152,
+      "curvAB": 0.167681710162722,
+      "curvSym": 0.12357791029375152
+    }
+  },
+  "iteration71": {
+    "name": "project_internet_None_None; teddybear",
+    "score": {
+      "normBA": 0.49466746259349065,
+      "normAB": 0.45682775838690964,
+      "normSym": 0.45682775838690964,
+      "curvBA": 0.030564501530594,
+      "curvAB": 0.1348044025361923,
+      "curvSym": 0.030564501530594
+    }
+  },
+  "iteration81": {
+    "name": "project_internet_None_On; teddybear",
+    "score": {
+      "normBA": 0.5255216307038426,
+      "normAB": 0.45862093117844566,
+      "normSym": 0.45862093117844566,
+      "curvBA": 0.0300651968566483,
+      "curvAB": 0.13671732209393953,
+      "curvSym": 0.0300651968566483
+    }
+  },
+  "iteration91": {
+    "name": "project_internet_Object_None; teddybear",
+    "score": {
+      "normBA": 0.5071959835594358,
+      "normAB": 0.4298731990597749,
+      "normSym": 0.4298731990597749,
+      "curvBA": 0.06570751056534427,
+      "curvAB": 0.16666859583416538,
+      "curvSym": 0.06570751056534427
+    }
+  },
+  "iteration101": {
+    "name": "project_internet_Object_On; teddybear",
+    "score": {
+      "normBA": 0.5042804534334379,
+      "normAB": 0.43116393358923744,
+      "normSym": 0.43116393358923744,
+      "curvBA": 0.06470941781353227,
+      "curvAB": 0.16598483508395534,
+      "curvSym": 0.06470941781353227
+    }
+  },
+  "iteration111": {
+    "name": "project_internet_Segment_None; teddybear",
+    "score": {
+      "normBA": 0.5183944122731966,
+      "normAB": 0.419355482734426,
+      "normSym": 0.419355482734426,
+      "curvBA": 0.14848766860792165,
+      "curvAB": 0.16625182082310616,
+      "curvSym": 0.14848766860792165
+    }
+  },
+  "iteration121": {
+    "name": "project_internet_Segment_On; teddybear",
+    "score": {
+      "normBA": 0.5167817755899033,
+      "normAB": 0.41922004416311975,
+      "normSym": 0.41922004416311975,
+      "curvBA": 0.1478988795570017,
+      "curvAB": 0.1670165449906055,
+      "curvSym": 0.1478988795570017
+    }
+  },
+  "iteration131": {
+    "name": "project_video_None_None; teddybear",
+    "score": {
+      "normBA": 0.496023131930293,
+      "normAB": 0.45377456237588476,
+      "normSym": 0.45377456237588476,
+      "curvBA": 0.049015561876277126,
+      "curvAB": 0.13802159662769659,
+      "curvSym": 0.049015561876277126
+    }
+  },
+  "iteration141": {
+    "name": "project_video_None_On; teddybear",
+    "score": {
+      "normBA": 0.5235447528898487,
+      "normAB": 0.4537879792412085,
+      "normSym": 0.4537879792412085,
+      "curvBA": 0.04945199368876451,
+      "curvAB": 0.13944504317609407,
+      "curvSym": 0.04945199368876451
+    }
+  },
+  "iteration151": {
+    "name": "project_video_Object_None; teddybear",
+    "score": {
+      "normBA": 0.5183807953568114,
+      "normAB": 0.4461685881928719,
+      "normSym": 0.4461685881928719,
+      "curvBA": 0.08665926436481723,
+      "curvAB": 0.172977906980358,
+      "curvSym": 0.08665926436481723
+    }
+  },
+  "iteration161": {
+    "name": "project_video_Object_On; teddybear",
+    "score": {
+      "normBA": 0.5048412036682781,
+      "normAB": 0.4589947150190865,
+      "normSym": 0.4589947150190865,
+      "curvBA": 0.10336869715039274,
+      "curvAB": 0.17071421935073425,
+      "curvSym": 0.10336869715039274
+    }
+  },
+  "iteration171": {
+    "name": "project_video_Segment_None; teddybear",
+    "score": {
+      "normBA": 0.5058485154903387,
+      "normAB": 0.44036414760309783,
+      "normSym": 0.44036414760309783,
+      "curvBA": 0.14247010555381456,
+      "curvAB": 0.17773466181092998,
+      "curvSym": 0.14247010555381456
+    }
+  },
+  "iteration181": {
+    "name": "project_video_Segment_On; teddybear",
+    "score": {
+      "normBA": 0.5290445462559711,
+      "normAB": 0.43800354010659936,
+      "normSym": 0.43800354010659936,
+      "curvBA": 0.15295437522202027,
+      "curvAB": 0.17684642762040986,
+      "curvSym": 0.15295437522202027
+    }
+  }
+}

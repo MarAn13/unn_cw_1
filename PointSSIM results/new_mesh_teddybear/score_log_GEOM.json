@@ -1,0 +1,26 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_On; CO3D_TEST",
+    "score": {
+      "geomBA": 0.4398469483628854,
+      "geomAB": 0.4554493503301637,
+      "geomSym": 0.4398469483628854
+    }
+  },
+  "iteration21": {
+    "name": "project_internet_Segment_On; CO3D_TEST",
+    "score": {
+      "geomBA": 0.44715235590590441,
+      "geomAB": 0.45852757891845519,
+      "geomSym": 0.44715235590590441
+    }
+  },
+  "iteration31": {
+    "name": "project_video_Segment_On; CO3D_TEST",
+    "score": {
+      "geomBA": 0.46365146913027011,
+      "geomAB": 0.46600055306363763,
+      "geomSym": 0.46365146913027011
+    }
+  }
+}

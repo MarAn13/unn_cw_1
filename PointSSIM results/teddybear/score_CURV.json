@@ -1,0 +1,146 @@
+{
+  "iteration11": {
+    "name": "project_individual_None_None; teddybear",
+    "score": {
+      "geomSym": 0.033072650399701337,
+      "normSym": 0.45841817668662271,
+      "curvSym": 0.046783261970999884
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_None_On; teddybear",
+    "score": {
+      "geomSym": 0.043250175074807218,
+      "normSym": 0.45949057565533025,
+      "curvSym": 0.036874016518260562
+    }
+  },
+  "iteration31": {
+    "name": "project_individual_Object_None; teddybear",
+    "score": {
+      "geomSym": 0.08012162359811878,
+      "normSym": 0.4282494848270369,
+      "curvSym": 0.076715673000456619
+    }
+  },
+  "iteration41": {
+    "name": "project_individual_Object_On; teddybear",
+    "score": {
+      "geomSym": 0.086537497101318223,
+      "normSym": 0.4304260360866824,
+      "curvSym": 0.0694619287526735
+    }
+  },
+  "iteration51": {
+    "name": "project_individual_Segment_None; teddybear",
+    "score": {
+      "geomSym": 0.26737753959412131,
+      "normSym": 0.42627759743511612,
+      "curvSym": 0.14453949381021636
+    }
+  },
+  "iteration61": {
+    "name": "project_individual_Segment_On; teddybear",
+    "score": {
+      "geomSym": 0.16132355525544453,
+      "normSym": 0.42993570642777457,
+      "curvSym": 0.090218705703796642
+    }
+  },
+  "iteration71": {
+    "name": "project_internet_None_None; teddybear",
+    "score": {
+      "geomSym": 0.028298788280105232,
+      "normSym": 0.45682775838690964,
+      "curvSym": 0.030564501530594
+    }
+  },
+  "iteration81": {
+    "name": "project_internet_None_On; teddybear",
+    "score": {
+      "geomSym": 0.024573033483915426,
+      "normSym": 0.45862093117844566,
+      "curvSym": 0.0300651968566483
+    }
+  },
+  "iteration91": {
+    "name": "project_internet_Object_None; teddybear",
+    "score": {
+      "geomSym": 0.086084974703719314,
+      "normSym": 0.42987319905977489,
+      "curvSym": 0.065707510565344268
+    }
+  },
+  "iteration101": {
+    "name": "project_internet_Object_On; teddybear",
+    "score": {
+      "geomSym": 0.084809580329160569,
+      "normSym": 0.43116393358923744,
+      "curvSym": 0.064709417813532275
+    }
+  },
+  "iteration111": {
+    "name": "project_internet_Segment_None; teddybear",
+    "score": {
+      "geomSym": 0.40479098386314272,
+      "normSym": 0.38822606130770759,
+      "curvSym": 0.12589563190361616
+    }
+  },
+  "iteration121": {
+    "name": "project_internet_Segment_On; teddybear",
+    "score": {
+      "geomSym": 0.11025597519077997,
+      "normSym": 0.42965615663955464,
+      "curvSym": 0.1653056208259735
+    }
+  },
+  "iteration131": {
+    "name": "project_video_None_None; teddybear",
+    "score": {
+      "geomSym": 0.072776805918860057,
+      "normSym": 0.45377456237588476,
+      "curvSym": 0.049015561876277126
+    }
+  },
+  "iteration141": {
+    "name": "project_video_None_On; teddybear",
+    "score": {
+      "geomSym": 0.098248729330844067,
+      "normSym": 0.45378797924120851,
+      "curvSym": 0.04945199368876451
+    }
+  },
+  "iteration151": {
+    "name": "project_video_Object_None; teddybear",
+    "score": {
+      "geomSym": 0.096804262671692426,
+      "normSym": 0.44616858819287192,
+      "curvSym": 0.086659264364817232
+    }
+  },
+  "iteration161": {
+    "name": "project_video_Object_On; teddybear",
+    "score": {
+      "geomSym": 0.10075916225512548,
+      "normSym": 0.45899471501908651,
+      "curvSym": 0.10336869715039274
+    }
+  },
+  "iteration171": {
+    "name": "project_video_Segment_None; teddybear",
+    "score": {
+      "geomSym": 0.21395271097883423,
+      "normSym": 0.44319194288532793,
+      "curvSym": 0.14642365279515202
+    }
+  },
+  "iteration181": {
+    "name": "project_video_Segment_On; teddybear",
+    "score": {
+      "geomSym": 0.23655283971522226,
+      "normSym": 0.44509484997884047,
+      "curvSym": 0.12490803854000325
+    }
+  }
+}

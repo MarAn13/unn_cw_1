@@ -1,0 +1,50 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; teddybear",
+    "score": {
+      "geomBA": 0.39043903544324726,
+      "geomAB": 0.46706740065836433,
+      "geomSym": 0.39043903544324726
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; teddybear",
+    "score": {
+      "geomBA": 0.3955669804392099,
+      "geomAB": 0.46620306638079084,
+      "geomSym": 0.3955669804392099
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; teddybear",
+    "score": {
+      "geomBA": 0.35851094568828384,
+      "geomAB": 0.46758531236592116,
+      "geomSym": 0.35851094568828384
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; teddybear",
+    "score": {
+      "geomBA": 0.33147790842847935,
+      "geomAB": 0.46728991433138167,
+      "geomSym": 0.33147790842847935
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; teddybear",
+    "score": {
+      "geomBA": 0.31161124540500468,
+      "geomAB": 0.46203631517647514,
+      "geomSym": 0.31161124540500468
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; teddybear",
+    "score": {
+      "geomBA": 0.29990065738173222,
+      "geomAB": 0.46447329120895642,
+      "geomSym": 0.29990065738173222
+    }
+  }
+}

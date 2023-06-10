@@ -1,0 +1,50 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; orange",
+    "score": {
+      "geomSym": 4.4280354677753004E-5,
+      "normSym": 0.49927299232004624,
+      "curvSym": 0.001047329848413965
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; orange",
+    "score": {
+      "geomSym": 8.8622487125412537E-5,
+      "normSym": 0.50957307564516419,
+      "curvSym": 0.0012699094200628836
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; orange",
+    "score": {
+      "geomSym": 0.00011649327775467286,
+      "normSym": 0.55122015195795526,
+      "curvSym": 0.0013836012147089274
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; orange",
+    "score": {
+      "geomSym": 3.6757477712371878E-5,
+      "normSym": 0.52440830140251649,
+      "curvSym": 0.00240856555868032
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; orange",
+    "score": {
+      "geomSym": 0.0003956793068126396,
+      "normSym": 0.51605316997721218,
+      "curvSym": 0.00096711691024159788
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; orange",
+    "score": {
+      "geomSym": 0.00039919648748125116,
+      "normSym": 0.55911407652777168,
+      "curvSym": 0.00079015438341403386
+    }
+  }
+}

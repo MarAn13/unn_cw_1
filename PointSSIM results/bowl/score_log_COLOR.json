@@ -1,0 +1,146 @@
+{
+  "iteration11": {
+    "name": "project_individual_None_None; bowl",
+    "score": {
+      "colorBA": 0.3722288119335789,
+      "colorAB": 0.4240698157545251,
+      "colorSym": 0.3722288119335789
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_None_On; bowl",
+    "score": {
+      "colorBA": 0.32358188116698416,
+      "colorAB": 0.40164245001786547,
+      "colorSym": 0.32358188116698416
+    }
+  },
+  "iteration31": {
+    "name": "project_individual_Object_None; bowl",
+    "score": {
+      "colorBA": 0.19139813093023306,
+      "colorAB": 0.37181078729780626,
+      "colorSym": 0.19139813093023306
+    }
+  },
+  "iteration41": {
+    "name": "project_individual_Object_On; bowl",
+    "score": {
+      "colorBA": 0.14604806963532257,
+      "colorAB": 0.3565617096164087,
+      "colorSym": 0.14604806963532257
+    }
+  },
+  "iteration51": {
+    "name": "project_individual_Segment_None; bowl",
+    "score": {
+      "colorBA": 0.2781129079417548,
+      "colorAB": 0.06417884764305705,
+      "colorSym": 0.06417884764305705
+    }
+  },
+  "iteration61": {
+    "name": "project_individual_Segment_On; bowl",
+    "score": {
+      "colorBA": 0.2797451651589441,
+      "colorAB": 0.15515883590152627,
+      "colorSym": 0.15515883590152627
+    }
+  },
+  "iteration71": {
+    "name": "project_internet_None_None; bowl",
+    "score": {
+      "colorBA": 0.19537484106202194,
+      "colorAB": 0.40910692461864134,
+      "colorSym": 0.19537484106202194
+    }
+  },
+  "iteration81": {
+    "name": "project_internet_None_On; bowl",
+    "score": {
+      "colorBA": 0.31341871252197684,
+      "colorAB": 0.4299775458421064,
+      "colorSym": 0.31341871252197684
+    }
+  },
+  "iteration91": {
+    "name": "project_internet_Object_None; bowl",
+    "score": {
+      "colorBA": 0.20514571757710315,
+      "colorAB": 0.42558128564820796,
+      "colorSym": 0.20514571757710315
+    }
+  },
+  "iteration101": {
+    "name": "project_internet_Object_On; bowl",
+    "score": {
+      "colorBA": 0.2622399025047038,
+      "colorAB": 0.3698233918350984,
+      "colorSym": 0.2622399025047038
+    }
+  },
+  "iteration111": {
+    "name": "project_internet_Segment_None; bowl",
+    "score": {
+      "colorBA": 0.3223910825729338,
+      "colorAB": 0.21533512935891277,
+      "colorSym": 0.21533512935891277
+    }
+  },
+  "iteration121": {
+    "name": "project_internet_Segment_On; bowl",
+    "score": {
+      "colorBA": 0.32619050992894993,
+      "colorAB": 0.5402402730902133,
+      "colorSym": 0.32619050992894993
+    }
+  },
+  "iteration131": {
+    "name": "project_video_None_None; bowl",
+    "score": {
+      "colorBA": 0.22558631854481312,
+      "colorAB": 0.4159304813104732,
+      "colorSym": 0.22558631854481312
+    }
+  },
+  "iteration141": {
+    "name": "project_video_None_On; bowl",
+    "score": {
+      "colorBA": 0.35703126961447107,
+      "colorAB": 0.2687211538211449,
+      "colorSym": 0.2687211538211449
+    }
+  },
+  "iteration151": {
+    "name": "project_video_Object_None; bowl",
+    "score": {
+      "colorBA": 0.2610325624500876,
+      "colorAB": 0.1462116669002208,
+      "colorSym": 0.1462116669002208
+    }
+  },
+  "iteration161": {
+    "name": "project_video_Object_On; bowl",
+    "score": {
+      "colorBA": 0.28236973937373244,
+      "colorAB": 0.11724593017095027,
+      "colorSym": 0.11724593017095027
+    }
+  },
+  "iteration171": {
+    "name": "project_video_Segment_None; bowl",
+    "score": {
+      "colorBA": 0.24031576808880942,
+      "colorAB": 0.18458331049129034,
+      "colorSym": 0.18458331049129034
+    }
+  },
+  "iteration181": {
+    "name": "project_video_Segment_On; bowl",
+    "score": {
+      "colorBA": 0.34193211535338125,
+      "colorAB": 0.1134808586560857,
+      "colorSym": 0.1134808586560857
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; orange",
+    "score": {
+      "normBA": 0.49927299232004624,
+      "normAB": 0.5255398491220018,
+      "normSym": 0.49927299232004624,
+      "curvBA": 0.001047329848413965,
+      "curvAB": 0.12717939616498131,
+      "curvSym": 0.001047329848413965
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; orange",
+    "score": {
+      "normBA": 0.65064452537014172,
+      "normAB": 0.50957307564516419,
+      "normSym": 0.50957307564516419,
+      "curvBA": 0.0012699094200628836,
+      "curvAB": 0.11784746133058652,
+      "curvSym": 0.0012699094200628836
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; orange",
+    "score": {
+      "normBA": 0.64561424744405294,
+      "normAB": 0.55122015195795526,
+      "normSym": 0.55122015195795526,
+      "curvBA": 0.0013836012147089274,
+      "curvAB": 0.10542638527152234,
+      "curvSym": 0.0013836012147089274
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; orange",
+    "score": {
+      "normBA": 0.58320973475215188,
+      "normAB": 0.52440830140251649,
+      "normSym": 0.52440830140251649,
+      "curvBA": 0.00240856555868032,
+      "curvAB": 0.145316128870179,
+      "curvSym": 0.00240856555868032
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; orange",
+    "score": {
+      "normBA": 0.51605316997721218,
+      "normAB": 0.55667729678223721,
+      "normSym": 0.51605316997721218,
+      "curvBA": 0.00096711691024159788,
+      "curvAB": 0.20541332894058043,
+      "curvSym": 0.00096711691024159788
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; orange",
+    "score": {
+      "normBA": 0.66086309308819391,
+      "normAB": 0.55911407652777168,
+      "normSym": 0.55911407652777168,
+      "curvBA": 0.00079015438341403386,
+      "curvAB": 0.19303235871922228,
+      "curvSym": 0.00079015438341403386
+    }
+  }
+}

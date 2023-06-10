@@ -1,0 +1,2 @@
+chair Data type: video, mask: Object, vocab tree: On, SfM time: 433, MVS time: 919, total time: 1352
+vase Data type: video, mask: Object, vocab tree: On, SfM time: 485, MVS time: 217, total time: 702

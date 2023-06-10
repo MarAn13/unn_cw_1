@@ -1,0 +1,4 @@
+*.ply filter=lfs diff=lfs merge=lfs -text
+*.mvs filter=lfs diff=lfs merge=lfs -text
+*.obj filter=lfs diff=lfs merge=lfs -text
+*.dmap filter=lfs diff=lfs merge=lfs -text

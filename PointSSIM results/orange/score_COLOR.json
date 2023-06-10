@@ -1,0 +1,164 @@
+{
+  "iteration11": {
+    "name": "project_individual_None_None; orange",
+    "score": {
+      "geomSym": 0.0059563513885574964,
+      "normSym": 0.53806187939023165,
+      "curvSym": 0.00057263465107799071,
+      "colorSym": 0.047633238766904867
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_None_On; orange",
+    "score": {
+      "geomSym": 0.036791112741466028,
+      "normSym": 0.53706063056645414,
+      "curvSym": 0.0025623933611166761,
+      "colorSym": 0.048014677226112495
+    }
+  },
+  "iteration31": {
+    "name": "project_individual_Object_None; orange",
+    "score": {
+      "geomSym": 0.00011843418263716057,
+      "normSym": 0.51080303834779883,
+      "curvSym": 0.0019413556703392421,
+      "colorSym": 0.040869349795015976
+    }
+  },
+  "iteration41": {
+    "name": "project_individual_Object_On; orange",
+    "score": {
+      "geomSym": 1.2614126551648558E-5,
+      "normSym": 0.505363533414834,
+      "curvSym": 0.00083620527181803652,
+      "colorSym": 0.026780922894903792
+    }
+  },
+  "iteration51": {
+    "name": "project_individual_Segment_None; orange",
+    "score": {
+      "geomSym": 9.9913992555020545E-5,
+      "normSym": 0.50869469625906261,
+      "curvSym": 0.002317397445715106,
+      "colorSym": 0.027710736932527645
+    }
+  },
+  "iteration61": {
+    "name": "project_individual_Segment_On; orange",
+    "score": {
+      "geomSym": 0.0038222743142096484,
+      "normSym": 0.50734560756458091,
+      "curvSym": 0.0025019402312748715,
+      "colorSym": 0.026708398696476392
+    }
+  },
+  "iteration71": {
+    "name": "project_internet_None_None; orange",
+    "score": {
+      "geomSym": 0.0049298224847215454,
+      "normSym": 0.52490310454634348,
+      "curvSym": 0.0043548770613342355,
+      "colorSym": 0.059194051596948516
+    }
+  },
+  "iteration81": {
+    "name": "project_internet_None_On; orange",
+    "score": {
+      "geomSym": 6.2376485759660008E-5,
+      "normSym": 0.51832741376668523,
+      "curvSym": 0.0023333071473708765,
+      "colorSym": 0.047565704851720757
+    }
+  },
+  "iteration91": {
+    "name": "project_internet_Object_None; orange",
+    "score": {
+      "geomSym": 0.00031672154529027626,
+      "normSym": 0.53893497008725433,
+      "curvSym": 0.0020778556557854997,
+      "colorSym": 0.031417713165293328
+    }
+  },
+  "iteration101": {
+    "name": "project_internet_Object_On; orange",
+    "score": {
+      "geomSym": 0.00010533936265132095,
+      "normSym": 0.52007544856454424,
+      "curvSym": 0.0014159435606242064,
+      "colorSym": 0.033299966529213958
+    }
+  },
+  "iteration111": {
+    "name": "project_internet_Segment_None; orange",
+    "score": {
+      "geomSym": 4.5972923536175228E-5,
+      "normSym": 0.54514676032032083,
+      "curvSym": 0.0011829368268758478,
+      "colorSym": 0.034335660167610721
+    }
+  },
+  "iteration121": {
+    "name": "project_internet_Segment_On; orange",
+    "score": {
+      "geomSym": 2.2161348555095306E-5,
+      "normSym": 0.54653295745960284,
+      "curvSym": 0.00031640097137565558,
+      "colorSym": 0.033910451004500547
+    }
+  },
+  "iteration131": {
+    "name": "project_video_None_None; orange",
+    "score": {
+      "geomSym": 0.0076649317472930727,
+      "normSym": 0.54569625662957821,
+      "curvSym": 0.012493752718496428,
+      "colorSym": 0.053032359480159844
+    }
+  },
+  "iteration141": {
+    "name": "project_video_None_On; orange",
+    "score": {
+      "geomSym": 0.006740381356206168,
+      "normSym": 0.561072110351776,
+      "curvSym": 0.0008336244587174742,
+      "colorSym": 0.050898998001433209
+    }
+  },
+  "iteration151": {
+    "name": "project_video_Object_None; orange",
+    "score": {
+      "geomSym": 0.030783867525741509,
+      "normSym": 0.56923244045118038,
+      "curvSym": 0.013155573675389892,
+      "colorSym": 0.041572387197601132
+    }
+  },
+  "iteration161": {
+    "name": "project_video_Object_On; orange",
+    "score": {
+      "geomSym": 0.0001061880283522922,
+      "normSym": 0.55440681242460188,
+      "curvSym": 0.0031475418404033262,
+      "colorSym": 0.03892140048445198
+    }
+  },
+  "iteration171": {
+    "name": "project_video_Segment_None; orange",
+    "score": {
+      "geomSym": 0.0330547426555287,
+      "normSym": 0.55634627299293993,
+      "curvSym": 0.0041248145540967668,
+      "colorSym": 0.044712196834747205
+    }
+  },
+  "iteration181": {
+    "name": "project_video_Segment_On; orange",
+    "score": {
+      "geomSym": 0.00763498396915744,
+      "normSym": 0.55524579836953891,
+      "curvSym": 0.0010557641230003834,
+      "colorSym": 0.04072433201648918
+    }
+  }
+}

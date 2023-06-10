@@ -1,0 +1,38 @@
+{
+  "iteration11": {
+    "name": "project_individual_Segment_None; orange",
+    "score": {
+      "geomSym": 4.4280354677753004E-5
+    }
+  },
+  "iteration21": {
+    "name": "project_individual_Segment_On; orange",
+    "score": {
+      "geomSym": 8.8622487125412537E-5
+    }
+  },
+  "iteration31": {
+    "name": "project_internet_Segment_None; orange",
+    "score": {
+      "geomSym": 0.00011649327775467286
+    }
+  },
+  "iteration41": {
+    "name": "project_internet_Segment_On; orange",
+    "score": {
+      "geomSym": 3.6757477712371878E-5
+    }
+  },
+  "iteration51": {
+    "name": "project_video_Segment_None; orange",
+    "score": {
+      "geomSym": 0.0003956793068126396
+    }
+  },
+  "iteration61": {
+    "name": "project_video_Segment_On; orange",
+    "score": {
+      "geomSym": 0.00039919648748125116
+    }
+  }
+}

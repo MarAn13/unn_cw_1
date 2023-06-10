@@ -1,0 +1,3 @@
+bowl Data type: video, mask: Segment, vocab tree: On, SfM time: 441, MVS time: 244, total time: 685
+orange Data type: video, mask: Segment, vocab tree: On, SfM time: 112, MVS time: 468, total time: 580
+teddybear Data type: video, mask: Segment, vocab tree: On, SfM time: 372, MVS time: 1094, total time: 1466

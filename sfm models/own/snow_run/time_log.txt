@@ -1,0 +1,1 @@
+Data type: video, mask: Object, vocab tree: On, SfM time: 833, MVS time: 1010, total time: 1843
